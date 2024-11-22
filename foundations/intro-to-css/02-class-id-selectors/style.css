@@ -1,0 +1,20 @@
+#title{
+    background-color:#e18e96; /* Light red/pink background */
+    font-family: Verdana, "DejaVu Sans", sans-serif; /* Font stack */
+    color:black;
+}
+
+
+.two{
+    color: blue;
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+.four{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
